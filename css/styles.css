@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+.first-div {
+  background-color: #9D84B7;
+  border: solid;
+  border-width: 5px;
+  border-color: #E5DCC3;
+  padding-top: 0.4%;
+  margin: 0.4%;
+}
+
+.second-div {
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  box-shadow: 5px 5px white;
+  background-color: #7fffd4;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.third-div {
+  color: white;
+  text-shadow: 2px 2px 4px black;
+}
+
+.lab-heading {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h1 {
+  margin-top: 0;
+  color: white;
+}
