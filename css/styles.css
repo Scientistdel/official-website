@@ -1,0 +1,50 @@
+.all-body{
+  margin: 0;
+  background-color: #fffafa;
+  text-align: center;
+}
+.topbody{
+  text-align: center;
+
+}
+
+
+
+.toppara{
+  color:white;
+  position: absolute;
+  left: 32%;
+  
+}
+
+.first-div {
+  background-color: #005757;
+  border: solid;
+  border-width: 5px;
+  border-color: #ababab;
+  padding-top: 0.4%;
+  margin: 0.4%;
+}
+
+
+
+.lab-heading {
+  color: Black;
+
+  font-family: 'Dosis', sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+  color: white;
+}
+
+.contact-me{
+  color: White;
+  background-color: #005757;
+  border: solid;
+  border-width: 5px;
+  border-color: #ababab;
+  padding-bottom: 0.4%;
+  margin: 0.4%;
+}
